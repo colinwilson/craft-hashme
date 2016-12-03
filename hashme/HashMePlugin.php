@@ -43,7 +43,7 @@ class HashMePlugin extends BasePlugin
      */
     public function getDocumentationUrl()
     {
-        return 'https://github.com/infinitysgame/hashme/blob/master/README.md';
+        return 'https://github.com/infinitysgame/craft-hashme/blob/master/README.md';
     }
 
     /**
@@ -51,7 +51,7 @@ class HashMePlugin extends BasePlugin
      */
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/infinitysgame/hashme/master/releases.json';
+        return 'https://raw.githubusercontent.com/infinitysgame/craft-hashme/master/releases.json';
     }
 
     /**

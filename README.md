@@ -1,4 +1,4 @@
-# Craft HashMe Filter Plugin
+# Craft Hash Me Filter Plugin
 This is a plugin for Craft CMS to generate a hash value of a string.
 
 Example usage in a template:
