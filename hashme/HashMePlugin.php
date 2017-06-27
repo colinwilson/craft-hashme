@@ -5,9 +5,8 @@
  * Craft Plugin to generate a hash value of a string
  *
  * @author    Colin Wilson
- * @copyright Copyright (c) 2016 Colin Wilson
- * @link      https://infinitysgame.com
- * @package   HashMe
+ * @copyright Copyright (c) 2017 Colin Wilson
+ * @link      https://github.com/colinwilson
  * @since     0.1.0
  */
 

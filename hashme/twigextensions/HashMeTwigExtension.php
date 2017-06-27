@@ -5,8 +5,8 @@
  * Hash Me Twig Extension
  *
  * @author    Colin Wilson
- * @copyright Copyright (c) 2016 Colin Wilson
- * @link      https://infinitysgame.com
+ * @copyright Copyright (c) 2017 Colin Wilson
+ * @link      https://github.com/colinwilson
  * @package   HashMe
  * @since     0.1.0
  */
